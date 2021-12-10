@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pcomasap
 - 👀 I’m interested in learning,learning,learning!
 - 🌱 I’m currently learning java & javascript...and human languages also
-- 💞️ I’m looking to collaborate on any project which allow me to learn programming
+- 💞️ I’m looking to collaborate on any project which allows me to learn programming
 - 📫 How to reach me pcomasap@gmail.com
 
 <!---
